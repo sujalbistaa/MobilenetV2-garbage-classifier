@@ -11,7 +11,7 @@ Model evaluation and visualization
 Export to .h5, .tflite, or ONNX format (optional)
 
 
-🧠 **Architecture**
+ **Architecture**
 
 Base Model: MobileNetV2 (pretrained on ImageNet)
 Classifier Head: Fully connected layers adapted to your custom dataset
